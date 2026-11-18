@@ -13,6 +13,9 @@ Desktop-Tool mit grafischer Oberfläche, das den Import von Orthophotos, Höhenm
 
 Entwickelt bei swisstopo für die Produktion von Spezialbefliegungen, Rapid Mapping und Monitoring-Aufträgen.
 
+<img width="699" height="819" alt="image" src="https://github.com/user-attachments/assets/41d485c3-25a3-45f7-8479-2ffd5ff46b4f" />
+
+
 ## Unterstützte Produkte
 
 | Produkt | Inhalt | Format |
